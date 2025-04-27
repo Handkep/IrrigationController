@@ -9236,7 +9236,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 137.16 148.59 0)
 			(effects
 				(font
@@ -9437,7 +9437,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_APV_ANR4026"
 			(at 157.48 161.29 0)
 			(effects
 				(font
@@ -9836,7 +9836,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_APV_ANR4026"
 			(at 102.87 161.29 0)
 			(effects
 				(font
@@ -9970,7 +9970,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 82.55 148.59 0)
 			(effects
 				(font
@@ -11967,7 +11967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 83.82 54.61 0)
 			(effects
 				(font
